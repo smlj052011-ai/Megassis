@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Megassis.Client/Megassis.Client.csproj" />
+  <Project Path="Megassis.Server/Megassis.Server.csproj" />
+</Solution>
